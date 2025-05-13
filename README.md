@@ -10,7 +10,7 @@ A quick internal tool to log and visualize the emotional "mood" of a support tic
 - Optional note field
 - Real-time bar chart of moods
 - Date filter to explore past days
-- Auto-refresh every 30 seconds
+- Auto-refresh every 60 seconds
 
 ---
 
