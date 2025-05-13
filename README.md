@@ -20,3 +20,6 @@ A quick internal tool to log and visualize the emotional "mood" of a support tic
 - **Backend:** Google Sheets API
 - **Charting:** Matplotlib
 - **Language:** Python
+
+## Google Sheet
+- https://docs.google.com/spreadsheets/d/1aLS37Q88eke9NA2iYDi1ysYNogL-_eHRmItzksjmCi4/edit?usp=sharing
