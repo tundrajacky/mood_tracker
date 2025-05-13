@@ -23,3 +23,6 @@ A quick internal tool to log and visualize the emotional "mood" of a support tic
 
 ## Google Sheet
 - https://docs.google.com/spreadsheets/d/1aLS37Q88eke9NA2iYDi1ysYNogL-_eHRmItzksjmCi4/edit?usp=sharing
+
+## Loom Video
+- https://www.loom.com/share/5e6fe9dfb2154ba9943ccb119f66503c?sid=ce8e1e8d-6240-4c41-be2b-695a353a7c4e
