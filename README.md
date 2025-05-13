@@ -1,5 +1,3 @@
-# mood_tracker
-
 # 🧠 Mood of the Queue
 
 A quick internal tool to log and visualize the emotional "mood" of a support ticket queue. Built with Streamlit and backed by Google Sheets.
